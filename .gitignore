@@ -1,3 +1,5 @@
+#build 
+dist
 # Logs
 logs
 *.log
@@ -102,3 +104,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# VS code local custom settings
+.vscode
